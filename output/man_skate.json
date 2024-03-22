@@ -1,0 +1,14 @@
+{
+    "apim-request-id": "84730362-c38d-4e29-b5f2-795134786e84",
+    "content-length": "156",
+    "content-type": "application/json; charset=utf-8",
+    "modelVersion": "2023-10-01",
+    "captionResult": {
+      "text": "a man jumping on a skateboard",
+      "confidence": 0.8414282202720642
+    },
+    "metadata": {
+      "width": 375,
+      "height": 250
+    }
+  }
